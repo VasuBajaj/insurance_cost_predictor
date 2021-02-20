@@ -9,6 +9,14 @@ import numpy as np
 from flask import Flask, request, jsonify, render_template
 import pickle
 import logging
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import r2_score,mean_squared_error
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+import pickle
 
 app = Flask(__name__)
 logging.basicConfig(filename = 'mainApp.log',format='%(asctime)s - %(message)s', level=logging.INFO)
