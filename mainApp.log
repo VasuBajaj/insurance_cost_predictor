@@ -1,0 +1,30 @@
+2021-02-20 08:21:04,888 - loading pickled model..
+2021-02-20 08:21:09,351 -  * Restarting with windowsapi reloader
+2021-02-20 08:21:10,589 - loading pickled model..
+2021-02-20 08:21:13,324 -  * Debugger is active!
+2021-02-20 08:21:13,366 -  * Debugger PIN: 213-718-732
+2021-02-20 08:21:13,443 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-02-20 08:23:55,671 - loading pickled model..
+2021-02-20 08:23:58,469 -  * Restarting with windowsapi reloader
+2021-02-20 08:23:59,646 - loading pickled model..
+2021-02-20 08:24:01,961 -  * Debugger is active!
+2021-02-20 08:24:01,987 -  * Debugger PIN: 213-718-732
+2021-02-20 08:24:02,056 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-02-20 08:27:47,948 - 127.0.0.1 - - [20/Feb/2021 08:27:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-20 08:27:47,949 -  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2021-02-20 08:27:48,017 - 127.0.0.1 - - [20/Feb/2021 08:27:48] "[37mGET /static/insurance.css HTTP/1.1[0m" 200 -
+2021-02-20 08:27:49,252 -  * Restarting with windowsapi reloader
+2021-02-20 08:27:50,407 - loading pickled model..
+2021-02-20 08:27:53,015 -  * Debugger is active!
+2021-02-20 08:27:53,043 -  * Debugger PIN: 213-718-732
+2021-02-20 08:27:53,118 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-02-20 08:28:16,527 - <generator object MultiDict.values at 0x000002271E735270>
+2021-02-20 08:28:16,527 - ['Vasu Bajaj', '30', '25', '1', 'Male', 'no']
+2021-02-20 08:28:16,534 -  * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+2021-02-20 08:28:16,561 - 7190.94
+2021-02-20 08:28:16,576 - 127.0.0.1 - - [20/Feb/2021 08:28:16] "[37mPOST /predictInsurance HTTP/1.1[0m" 200 -
+2021-02-20 08:28:17,846 -  * Restarting with windowsapi reloader
+2021-02-20 08:28:19,092 - loading pickled model..
+2021-02-20 08:28:21,588 -  * Debugger is active!
+2021-02-20 08:28:21,613 -  * Debugger PIN: 213-718-732
+2021-02-20 08:28:21,680 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
